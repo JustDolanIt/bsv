@@ -116,4 +116,4 @@ fi
 alias p="ping ya.ru"
 
 # very readable view for git log
-alias gh='git log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short"
+alias gh="git log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short"
