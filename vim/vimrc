@@ -20,6 +20,7 @@ set ttyfast " Fast connecton to terminal
 set hlsearch " Highliting search results
 set ignorecase " Case insensetive search
 set smartcase " But if writing with CAPITAL letters, then search by it
+set incsearch " Interactive searching - show as you type
 " Interface settings
 syntax on " Turning on syntax highlighting
 set number " Show number of line
