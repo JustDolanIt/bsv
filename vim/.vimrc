@@ -1,1 +1,1 @@
-source ~/.btv/vim/vimrc
+source ~/.bsv/vim/vimrc

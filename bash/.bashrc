@@ -1,1 +1,1 @@
-source $HOME/.btv/bash/bashrc
+source $HOME/.bsv/bash/bashrc
