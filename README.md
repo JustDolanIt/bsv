@@ -11,4 +11,4 @@ This repo is created for personal usage, but I don't mind if you will use it. Al
 
 ## Things to do
 
-  1. Add screen config (maybe not)
+  1. Fix issues with vim in screen
