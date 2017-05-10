@@ -3,3 +3,4 @@
 git config --global user.name "Your_name"
 git config --global user.email "your@mail.here"
 git config --global credential.helper cache
+git config --global pull.rebase true
