@@ -44,8 +44,11 @@ nnoremap ; :
 vnoremap ; :
 " Work with indentation (space/tab)
 set expandtab
-set shiftwidth=4
-set softtabstop=4
+set shiftwidth=2
+set softtabstop=2
+filetype plugin indent on " Gives ability to set ident per filetype
+autocmd filetype python set shiftwidth=4
+autocmd filetype python set softtabstop=4
 " Sptit screen in different parts
 nnoremap <leader>g <C-w>v<C-w>l
 nnoremap <leader>s <C-w>s<C-w>l
